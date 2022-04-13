@@ -1,5 +1,6 @@
 # DMD for Background Modeling
 __Authors__: Josh Myers-Dean, Leonardo Orozco, and Wenhao Wang
+
 Foreground Modeling using DMD tutorial for the Paper [Compressed dynamic mode decomposition for background modeling](https://arxiv.org/abs/1512.04205) by Erichson et al.
 
 This supplements the presentation for APPM 5720: Data Driven Modeling. (Slides to come)
