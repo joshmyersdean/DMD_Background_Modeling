@@ -20,6 +20,6 @@ We will be using the [SegTrackV2 dataset](https://web.engr.oregonstate.edu/~lif/
 - Change the SVD Rank from 0 (optimized fit) to something like 2 or 3 (cell 10)
 - Try not using the optimized DMD (cell 10)
 - Change compression matrix for compressed DMD (cell 10)
-- Change the amount of modes, $K$, to use for static background model (cell 12)
+- Change the amount of modes, K, to use for static background model (cell 12)
 - View how the segmentation visually changes with differing thresholds (cell 16)
 - Use a different video! (cell 5, then `Run All`)
