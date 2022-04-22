@@ -3,7 +3,7 @@ __Authors__: Josh Myers-Dean, Leonardo Orozco, and Wenhao Wang
 
 Foreground Modeling using DMD tutorial for the Paper [Compressed dynamic mode decomposition for background modeling](https://arxiv.org/abs/1512.04205) by Erichson et al.
 
-This supplements the presentation for APPM 5720: Data Driven Modeling. (Slides to come)
+This supplements the presentation for APPM 5720: Data Driven Modeling. [Slides](files/DMD-FGBG.pdf) 
 
 ## Dataset
 We will be using the [SegTrackV2 dataset](https://web.engr.oregonstate.edu/~lif/SegTrack2/dataset.html) from Oregon State. This is a binary segmentation dataset with pixel-level annotations and will work well for this tutorial. While some videos only have few frames, there are categories with sufficiently many frames.
